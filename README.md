@@ -2,14 +2,12 @@
 
 My name is Ali Onar, I'm a PHP Developer.
 
-![](https://komarev.com/ghpvc/?ali-onar=your-github-ali-onar&color=blue)
-
 ### 📫 How to reach me
 
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-tunacan-onar)
-[![Medium Badge](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium)](https://alitunacanonar.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/medium-green?style=for-the-badge&logo=medium)](https://alitunacanonar.medium.com/)
 
 <!--
 **Ali-Onar/ali-onar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
