@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ali Onar, I'm a PHP Developer.
+My name is Ali Onar, I'm a Software Engineer.
 
 ### 📫 How to reach me
 
